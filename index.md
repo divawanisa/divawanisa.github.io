@@ -20,7 +20,9 @@
 ### Data Analysis and Data Science with R
 
 - [Skincare Recommendation Classification](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 - [Forbes Data Exploration](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 - [Auto MPG Data Exploration](http://example.com/)
 
 ---
