@@ -24,9 +24,9 @@
 ### Data Analysis and Data Science with R
 
 - [Skincare Recommendation Classification](uploading soon)
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 - [Forbes Data Exploration] (uploading soon)
-#<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 - [Auto MPG Data Exploration] (uploading soon)
 
 ---
@@ -40,5 +40,5 @@
 
 ### Data Analytics with Tableau
 - [West Java Poverty Analysis](uploading soon)
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
