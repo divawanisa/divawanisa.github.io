@@ -13,18 +13,18 @@
 
 ---
 
-[Heart Disease Classification](/sample_page) (uploading soon)
+[Heart Disease Classification] (uploading soon)
 <br>Heart disease classification with GridSearch evaluation for Modelling Selection <br>
 (Data Exploration Included)<br>
 
 ---
-[Youtube EDA](/pdf/sample_presentation.pdf) (uploading soon)
+[Youtube EDA] (uploading soon)
 <br>Youtube data exploration using Indonesia's Trending Data from January 2021-December 2021<br>
 
 ---
 ### Data Analysis and Data Science with R
 
-- [Skincare Recommendation Classification](uploading soon)
+- [Skincare Recommendation Classification] (uploading soon)
 
 - [Forbes Data Exploration] (uploading soon)
 
@@ -33,13 +33,13 @@
 ---
 
 ### Data Analytics with SQL
-- [Bike Store Data Analytics](uploading soon)
+- [Bike Store Data Analytics] (uploading soon)
 
 ---
 
 ---
 
 ### Data Analytics with Tableau
-- [West Java Poverty Analysis](uploading soon)
+- [West Java Poverty Analysis] (uploading soon)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
