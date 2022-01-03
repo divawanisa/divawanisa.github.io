@@ -7,19 +7,16 @@
 [Heart Disease Classification](/sample_page)
 <br>Heart disease classification with GridSearch evaluation for Modelling Selection <br>
 (Data Exploration Included)<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Youtube EDA](/pdf/sample_presentation.pdf)
 <br>Youtube data exploration using Indonesia's Trending Data from January 2021-December 2021<br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Youtube EDA and Likes Prediction](https://github.com/divawanisa/divawanisa.github.io/blob/master/LikesPrediciton/Likes%20Prediction%20-%20Indonesia%20Youtube%20Trending%20Data.ipynb)
 <br> Selecting the most important features for Likes number using estimation modelling <br>
 (Data exploration included for feature selection)
-- [PDF File for Explanation](/pdf/sample_presentation.pdf)
-- (/LikesPrediction/Likes Prediction.pdf)
+- [PDF File for Explanation](/LikesPrediction/Likes_Prediction.pdf)
 
 ---
 
