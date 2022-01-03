@@ -5,6 +5,8 @@
 ### Data Analysis and Data Science with Python
 
 [Heart Disease Classification](/sample_page)
+Heart disease classification with GridSearch evaluation for Modelling Selection 
+(Data Exploration Included)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
