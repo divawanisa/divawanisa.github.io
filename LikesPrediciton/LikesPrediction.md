@@ -8,9 +8,9 @@ untuk menentukan faktor-faktor apa saja yang menentukan jumlah Likes pada video 
 ## Data Understanding
 Pemodelan akan dilakukan menggunakan data Trending Youtube di Indonesia dari bulan Januari 2021 sampai tanggal 6 Desember 2021. Akan dilakukan uploading data terlebih dahulu
 
-'''python
+```python
 import pandas as pd
-'''
+```
 
 Pada kali ini, akan dilakukan identifikasi faktor-faktor apa saja yang dapat memengaruhi jumlah Likes pada video yang diunggah dalam Youtube. Jumlah likes merupakan salah satu
 indikator yang dapat menentukan tingkat popularitas sebuah video.
