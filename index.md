@@ -18,7 +18,8 @@
 [Youtube EDA and Likes Prediction](https://github.com/divawanisa/divawanisa.github.io/blob/master/LikesPrediciton/Likes%20Prediction%20-%20Indonesia%20Youtube%20Trending%20Data.ipynb)
 <br> Selecting the most important features for Likes number using estimation modelling <br>
 (Data exploration included for feature selection)
-- [PDF File for Explanation](/LikesPrediction/Likes Prediction.pdf)
+- [PDF File for Explanation](/pdf/sample_presentation.pdf)
+- (/LikesPrediction/Likes Prediction.pdf)
 
 ---
 
