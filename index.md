@@ -2,7 +2,7 @@
 
 ---
 
-### Data Analysis and Data Science with Python
+### Data Analytics with Python
 
 
 <b>[Youtube EDA and Views Factors](https://medium.com/@nahdi.diva/factors-that-affecting-youtubes-views-numbers-60757fda73e9)</b>
