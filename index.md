@@ -5,11 +5,11 @@
 ### Data Analysis and Data Science with Python
 
 
-<b>[Youtube EDA and Likes Prediction](/LikesPrediciton/LikesPrediction.md)</b>
-<br> Selecting the most important features for Likes number using estimation modelling <br>
+<b>[Youtube EDA and Views Factors](https://medium.com/@nahdi.diva/factors-that-affecting-youtubes-views-numbers-60757fda73e9)</b>
+<br> Selecting the most important features for Views number using estimation modelling <br>
 (Data exploration included for feature selection)
 - [Notebook for the code (In Bahasa)](https://github.com/divawanisa/divawanisa.github.io/blob/master/LikesPrediciton/Likes%20Prediction%20-%20Indonesia%20Youtube%20Trending%20Data.ipynb)
-- [PDF File for Explanation (In Bahasa)](/pdf/Likes_Prediction.pdf)
+- [PDF File for Explanation (In Bahasa)](/pdf/Views Factors.pdf)
 
 <b>[Female Daily Review Extraction](https://github.com/divawanisa/divawanisa.github.io/blob/master/dataextraction/Female_daily_extraction.ipynb)</b>
 <br>Reviews are extracted using Python, specifically using BeautifulSoup package. The extracted reviews are cleaned first using several
