@@ -20,10 +20,10 @@ for further analysis, like sentiment analysis or topic modelling.<br>
 ---
 
 ### Data Analytics with SQL
-- [Parch & Posey Data Exploration] (uploading soon)
+[Parch & Posey Data Exploration](https://github.com/divawanisa/divawanisa.github.io/tree/master/parchandposey)
 <br>Parch and Posey is a fictional poster store and required data analyst to provide insight using SQL queries. 
 The data and problem questions are sampled from Github Profile "ptyadana" but I made the all the SQL answers.
-. I used Microsoft SQL server 2019 to write and process the SQL Queries.
+I used <b>Microsoft SQL server 2019</b> to write and process the SQL Queries.
 <br>
 
 ---
