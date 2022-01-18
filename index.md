@@ -13,6 +13,13 @@
 
 ---
 
+[Female Daily Review Extraction] (uploading soon)
+<br>Reviews are extracted using Python, specifically using BeautifulSoup package. The extracted reviews are cleaned first using several
+Python Function and Regular Expression (RegEx), resulting a ready-to-use data 
+for further analysis, like sentiment analysis or topic modelling<br>
+
+---
+
 [Heart Disease Classification] (uploading soon)
 <br>Heart disease classification with GridSearch evaluation for Modelling Selection <br>
 (Data Exploration Included)<br>
@@ -33,13 +40,18 @@
 ---
 
 ### Data Analytics with SQL
-- [Bike Store Data Analytics] (uploading soon)
-
+- [Parch & Posey Data Exploration] (uploading soon)
+<br>Parch and Posey is a fictional poster store and required data analyst to provide insight using SQL queries. 
+The data and problem questions are sampled from Github Profile ".....", but I made the all the SQL answers.
+. I used Microsoft SQL server 2019 to write and process the SQL Queries.
+<br>
 ---
 
 ---
 
 ### Data Analytics with Tableau
 - [West Java Poverty Analysis] (uploading soon)
+<br>This graphics are used to fulfill one the data analysis competition requirements, resulting my team achieving the 2nd runner up place in the competition
+back in October 2021. The graphics are made by my team and the dashboard was made by me.<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
