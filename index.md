@@ -9,7 +9,7 @@
 <br> Selecting the most important features for Views number using estimation modelling <br>
 (Data exploration included for feature selection)
 - [Notebook for the code (In Bahasa)](https://github.com/divawanisa/divawanisa.github.io/blob/master/LikesPrediciton/Likes%20Prediction%20-%20Indonesia%20Youtube%20Trending%20Data.ipynb)
-- [PDF File for Explanation (In Bahasa)](/pdf/Views Factors.pdf)
+- [PDF File for Explanation (In Bahasa)](/pdf/Views_Factors.pdf)
 
 <b>[Female Daily Review Extraction](https://github.com/divawanisa/divawanisa.github.io/blob/master/dataextraction/Female_daily_extraction.ipynb)</b>
 <br>Reviews are extracted using Python, specifically using BeautifulSoup package. The extracted reviews are cleaned first using several
