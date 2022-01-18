@@ -5,47 +5,26 @@
 ### Data Analysis and Data Science with Python
 
 
-[Youtube EDA and Likes Prediction](/LikesPrediciton/LikesPrediction.md)
+<b>[Youtube EDA and Likes Prediction](/LikesPrediciton/LikesPrediction.md)</b>
 <br> Selecting the most important features for Likes number using estimation modelling <br>
 (Data exploration included for feature selection)
 - [Notebook for the code (In Bahasa)](https://github.com/divawanisa/divawanisa.github.io/blob/master/LikesPrediciton/Likes%20Prediction%20-%20Indonesia%20Youtube%20Trending%20Data.ipynb)
 - [PDF File for Explanation (In Bahasa)](/pdf/Likes_Prediction.pdf)
 
----
-
-[Female Daily Review Extraction] (uploading soon)
+<b>[Female Daily Review Extraction](https://github.com/divawanisa/divawanisa.github.io/blob/master/dataextraction/Female_daily_extraction.ipynb)</b>
 <br>Reviews are extracted using Python, specifically using BeautifulSoup package. The extracted reviews are cleaned first using several
 Python Function and Regular Expression (RegEx), resulting a ready-to-use data 
-for further analysis, like sentiment analysis or topic modelling<br>
-
----
-
-[Heart Disease Classification] (uploading soon)
-<br>Heart disease classification with GridSearch evaluation for Modelling Selection <br>
-(Data Exploration Included)<br>
-
----
-[Youtube EDA] (uploading soon)
-<br>Youtube data exploration using Indonesia's Trending Data from January 2021-December 2021<br>
-
----
-### Data Analysis and Data Science with R
-
-- [Skincare Recommendation Classification] (uploading soon)
-
-- [Forbes Data Exploration] (uploading soon)
-
-- [Auto MPG Data Exploration] (uploading soon)
+for further analysis, like sentiment analysis or topic modelling.<br>
+- [CSV file for the extracted and cleaned data](https://github.com/divawanisa/divawanisa.github.io/blob/master/dataextraction/data_ekstraksi_clean.csv)
 
 ---
 
 ### Data Analytics with SQL
 - [Parch & Posey Data Exploration] (uploading soon)
 <br>Parch and Posey is a fictional poster store and required data analyst to provide insight using SQL queries. 
-The data and problem questions are sampled from Github Profile ".....", but I made the all the SQL answers.
+The data and problem questions are sampled from Github Profile "ptyadana" but I made the all the SQL answers.
 . I used Microsoft SQL server 2019 to write and process the SQL Queries.
 <br>
----
 
 ---
 
