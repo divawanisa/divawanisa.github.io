@@ -33,5 +33,5 @@ I used <b>Microsoft SQL server 2019</b> to write and process the SQL Queries.
 <br>This graphics are used to fulfill one the data analysis competition requirements, resulting my team achieving the 2nd runner up place in the competition
 back in October 2021<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-<img src="images/west_java_property.png?raw=true"/>
+<img src="images/west_java_property.png"/>
 ---
