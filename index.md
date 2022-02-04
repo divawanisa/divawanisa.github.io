@@ -34,3 +34,7 @@ I used <b>Microsoft SQL server 2019</b> to write and process the SQL Queries.
 back in October 2021<br>
 <img src="images/west_java_property.PNG"/>
 ---
+
+### Data Analytics with R
+- [Forbes Data Exploration](https://github.com/divawanisa/divawanisa.github.io/blob/master/R/forbes_data_exploration.R)
+- [Auto MPG Data Exploration](https://github.com/divawanisa/divawanisa.github.io/blob/master/R/autompg_data_exploration.R)
