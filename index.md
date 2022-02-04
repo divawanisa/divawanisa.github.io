@@ -33,8 +33,11 @@ I used <b>Microsoft SQL server 2019</b> to write and process the SQL Queries.
 <br>This graphics are used to fulfill one the data analysis competition requirements, resulting my team achieving the 2nd runner up place in the competition
 back in October 2021<br>
 <img src="images/west_java_property.PNG"/>
+
 ---
 
 ### Data Analytics with R
 - [Forbes Data Exploration](https://github.com/divawanisa/divawanisa.github.io/blob/master/R/forbes_data_exploration.R)
+<br> Data exploration for top companies according to Forbes <br>
 - [Auto MPG Data Exploration](https://github.com/divawanisa/divawanisa.github.io/blob/master/R/autompg_data_exploration.R)
+<br> Data Exploration for cars, using the default dataset of autoMPG from RStudio <br>
