@@ -29,7 +29,7 @@ I used <b>Microsoft SQL server 2019</b> to write and process the SQL Queries.
 ---
 
 ### Data Analytics with Tableau
-- [West Java Poverty Analysis](https://public.tableau.com/app/profile/diva2765/viz/AnalisisKemiskinandiDareahJawaBarat/Dashboard)
+<b>[West Java Poverty Analysis](https://public.tableau.com/app/profile/diva2765/viz/AnalisisKemiskinandiDareahJawaBarat/Dashboard)</b>
 <br>This graphics are used to fulfill one the data analysis competition requirements, resulting my team achieving the 2nd runner up place in the competition
 back in October 2021<br>
 <img src="images/west_java_property.PNG"/>
@@ -37,7 +37,12 @@ back in October 2021<br>
 ---
 
 ### Data Analytics with R
-- [Forbes Data Exploration](https://github.com/divawanisa/divawanisa.github.io/blob/master/R/forbes_data_exploration.R)
-<br> Data exploration for top companies according to Forbes <br>
-- [Auto MPG Data Exploration](https://github.com/divawanisa/divawanisa.github.io/blob/master/R/autompg_data_exploration.R)
-<br> Data Exploration for cars, using the default dataset of autoMPG from RStudio <br>
+<b>[Forbes Data Exploration](https://github.com/divawanisa/divawanisa.github.io/blob/master/R/forbes_data_exploration.R)</b>
+<br> Data exploration for top companies according to Forbes. Code and explanation are made by my team for Data Science group project. <br>
+- [Data](https://raw.githubusercontent.com/divawanisa/divawanisa.github.io/master/R/data_Forbes.csv)
+- [PDF for Explanation (in Bahasa)](/R/forbes_data_exploration.pdf)
+
+<b>[Auto MPG Data Exploration](https://github.com/divawanisa/divawanisa.github.io/blob/master/R/autompg_data_exploration.R)</b>
+<br> Data Exploration for cars, using the default dataset of autoMPG from RStudio.  Code and explanation are made by my team for Data Science group project. <br>
+- [Data](https://raw.githubusercontent.com/divawanisa/divawanisa.github.io/master/R/AUTO%20MPG.csv)
+- [PDF for Explanation (in Bahasa)](/R/forbes_data_exploration.pdf)
