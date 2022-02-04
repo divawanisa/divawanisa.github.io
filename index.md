@@ -29,8 +29,8 @@ I used <b>Microsoft SQL server 2019</b> to write and process the SQL Queries.
 ---
 
 ### Data Analytics with Tableau
-- [West Java Poverty Analysis] (uploading soon)
+- [West Java Poverty Analysis]https://public.tableau.com/app/profile/diva2765/viz/AnalisisKemiskinandiDareahJawaBarat/Dashboard
 <br>This graphics are used to fulfill one the data analysis competition requirements, resulting my team achieving the 2nd runner up place in the competition
-back in October 2021. The graphics are made by my team and the dashboard was made by me.<br>
+back in October 2021<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
