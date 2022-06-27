@@ -5,30 +5,36 @@
 ### Data Analytics with Python
 
 
-<b>[Youtube EDA and Views Factors](https://medium.com/@nahdi.diva/factors-that-affecting-youtubes-views-numbers-60757fda73e9)</b>
+<b>Youtube EDA and Views Factors</b>
 <br> Selecting the most important features for Views number using estimation modelling <br>
 (Data exploration included for feature selection)
+- [Medium Blog](https://medium.com/@nahdi.diva/factors-that-affecting-youtubes-views-numbers-60757fda73e9)
 - [Notebook for the code (In Bahasa)](https://github.com/divawanisa/divawanisa.github.io/blob/master/LikesPrediciton/Likes%20Prediction%20-%20Indonesia%20Youtube%20Trending%20Data.ipynb)
 - [PDF File for Explanation (In Bahasa)](/pdf/Views_Factors.pdf)
 
-<b>[E-commerce EDA](/pdf/ecommerce_eda.pdf)</b>
-<br>E-commerce data are explored to gained insights and provide recommendation<br>
-- [Python Notebook]
+<b>E-commerce EDA</b>
+<br>E-commerce data are explored to gained insights and provide recommendation. Include clustering models based on customer RFM to group customers based on their Customer Lifetime Value<br>
+- [Presentation](/pdf/ecommerce_eda.pdf)
+- [Python Notebook](/code/ecommerce_eda.ipynb)
 - [Dataset source](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
-<b>[Students Performance EDA](/pdf/students_performance.pdf)</b>
+<b>Students Performance EDA</b>
 <br>Students data are explored to gained insights and provide recommendation<br>
-- [Python Notebook]
+- [Presentation](/pdf/students_performance.pdf)
+- [Python Notebook](/code/students_performance.ipynb)
 - [Dataset source](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 
 
-<b>[Titanic Survival](/code/titanic.ipnyb)</b>
+<b>[Titanic Survival]</b>
 <br>Classifying titanic passengers based on survival status and building prediction model. Accuracy: 78%<br>
+- [Python Notebook](/code/titanic.ipnyb)
+- [Dataset Source](https://www.kaggle.com/competitions/titanic)
 
-<b>[Female Daily Review Extraction](https://github.com/divawanisa/divawanisa.github.io/blob/master/dataextraction/Female_daily_extraction.ipynb)</b>
+<b>[Female Daily Review Extraction]</b>
 <br>Reviews are extracted using Python, specifically using BeautifulSoup package. The extracted reviews are cleaned first using several
 Python Function and Regular Expression (RegEx), resulting a ready-to-use data 
 for further analysis, like sentiment analysis or topic modelling.<br>
+- [Python Notebook](https://github.com/divawanisa/divawanisa.github.io/blob/master/dataextraction/Female_daily_extraction.ipynb)
 - [CSV file for the extracted and cleaned data](https://github.com/divawanisa/divawanisa.github.io/blob/master/dataextraction/data_ekstraksi_clean.csv)
 
 ---
