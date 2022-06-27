@@ -11,15 +11,19 @@
 - [Notebook for the code (In Bahasa)](https://github.com/divawanisa/divawanisa.github.io/blob/master/LikesPrediciton/Likes%20Prediction%20-%20Indonesia%20Youtube%20Trending%20Data.ipynb)
 - [PDF File for Explanation (In Bahasa)](/pdf/Views_Factors.pdf)
 
+<b>[E-commerce EDA](/pdf/ecommerce_eda.pdf)</b>
+<br>E-commerce data are explored to gained insights and provide recommendation<br>
+- [Python Notebook]
+- [Dataset source](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+
 <b>[Students Performance EDA](/pdf/students_performance.pdf)</b>
 <br>Students data are explored to gained insights and provide recommendation<br>
 - [Python Notebook]
 - [Dataset source](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 
-<b>[E-commerce EDA](/pdf/ecommerce_eda.pdf)</b>
-<br>E-commerce data are explored to gained insights and provide recommendation<br>
-- [Python Notebook]
-- [Dataset source](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+
+<b>[Titanic Survival](/code/titanic.ipnyb)</b>
+<br>Classifying titanic passengers based on survival status and building prediction model. Accuracy: 78%<br>
 
 <b>[Female Daily Review Extraction](https://github.com/divawanisa/divawanisa.github.io/blob/master/dataextraction/Female_daily_extraction.ipynb)</b>
 <br>Reviews are extracted using Python, specifically using BeautifulSoup package. The extracted reviews are cleaned first using several
