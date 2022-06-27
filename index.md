@@ -19,7 +19,7 @@
 <b>[E-commerce EDA](/pdf/ecommerce_eda.pdf)</b>
 <br>E-commerce data are explored to gained insights and provide recommendation<br>
 - [Python Notebook]
-- [Dataset source](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- [Dataset source](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 <b>[Female Daily Review Extraction](https://github.com/divawanisa/divawanisa.github.io/blob/master/dataextraction/Female_daily_extraction.ipynb)</b>
 <br>Reviews are extracted using Python, specifically using BeautifulSoup package. The extracted reviews are cleaned first using several
