@@ -29,7 +29,7 @@
 
 <b>Titanic Passenger Survival Status Classification</b>
 <br>Classifying titanic passengers based on survival status and building prediction model. Accuracy: 78%<br>
-- [Python Notebook](/code/titanic.ipnyb)
+- [Python Notebook](/code/titanic.ipynb)
 - [Dataset Source](https://www.kaggle.com/competitions/titanic)
 
 
