@@ -4,6 +4,12 @@
 
 ### Data Analytics with Python
 
+<b>Digital Bank Service Positional Mapping</b>
+<br> Mapping offered service positiong among digital bank brands in Indonesia using NLP, Jaccard Similarity, Binomial Proportion Test,
+and Principal Component Analysis. The position map is deployed using Heroku server to ease user in interpreting the model result<br>
+- [Presentation for the research project](/pdf/PPT_TA.pdf)
+- [Deployment dashboard](https://komp-jenius.herokuapp.com/)
+
 
 <b>Youtube EDA and Views Factors</b>
 <br> Selecting the most important features for Views number using estimation modelling <br>
