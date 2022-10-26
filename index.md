@@ -2,6 +2,11 @@
 ## Data Portfolio
 
 ---
+## Digital Bank Service Positional Mapping
+<b> Python | EDA | NLP </b>
+<br> Mapping offered service positiong among digital bank brands in Indonesia using NLP, Jaccard Similarity, Binomial Proportion Test,
+and Principal Component Analysis. The position map is deployed using Heroku server to ease user in interpreting the model result </br>
+
 
 ### Data Analytics with Python
 
