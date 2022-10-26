@@ -31,13 +31,6 @@ and Principal Component Analysis. The position map is deployed using Heroku serv
 - [Python Notebook](/code/students_performance.ipynb)
 - [Dataset source](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 
-
-<b>Titanic Passenger Survival Status Classification</b>
-<br>Classifying titanic passengers based on survival status and building prediction model. Accuracy: 78%<br>
-- [Python Notebook](/code/titanic.ipynb)
-- [Dataset Source](https://www.kaggle.com/competitions/titanic)
-
-
 <b>Female Daily Review Extraction</b>
 <br>Reviews are extracted using Python, specifically using BeautifulSoup package. The extracted reviews are cleaned first using several
 Python Function and Regular Expression (RegEx), resulting a ready-to-use data 
