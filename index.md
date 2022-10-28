@@ -45,6 +45,7 @@ for further analysis, like sentiment analysis or topic modelling.<br>
 <br>Parch and Posey is a fictional poster store and required data analyst to provide insight using SQL queries. 
 The data and problem questions are sampled from Github Profile "ptyadana" but I made the all the SQL answers.
 I used <b>Microsoft SQL server 2019</b> to write and process the SQL Queries.
+- [Short EDA for Parch and Posey](pdf/parch_posey_eda.pdf)
 <br>
 
 ---
