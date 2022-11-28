@@ -10,14 +10,6 @@ and Principal Component Analysis. The position map is deployed using Heroku serv
 - [Deployment dashboard](https://komp-jenius.herokuapp.com/)
 
 
-<b>Youtube EDA and Views Factors</b>
-<br> Selecting the most important features for Views number using estimation modelling <br>
-(Data exploration included for feature selection)
-- [Medium Blog](https://medium.com/@nahdi.diva/factors-that-affecting-youtubes-views-numbers-60757fda73e9)
-- [Notebook for the code (In Bahasa)](https://github.com/divawanisa/divawanisa.github.io/blob/master/LikesPrediciton/Likes%20Prediction%20-%20Indonesia%20Youtube%20Trending%20Data.ipynb)
-- [PDF File for Explanation (In Bahasa)](/pdf/Views_Factors.pdf)
-
-
 <b>E-commerce EDA</b>
 <br>E-commerce data are explored to gained insights and provide recommendation. Include clustering models based on customer RFM to group customers based on their Customer Lifetime Value<br>
 - [Presentation](/pdf/ecommerce_eda.pdf)
