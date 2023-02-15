@@ -43,8 +43,9 @@ I used <b>Microsoft SQL server 2019</b> to write and process the SQL Queries.
 ---
 
 ### Data Analytics with Tableau
-<b>[NHTSAA Vehicle Recall Dashboard](https://public.tableau.com/app/profile/diva2765/viz/NHSTA-Blue/Dashboard1?publish=yes)</b>
+<b>[NHTSA Vehicle Recall Dashboard](https://public.tableau.com/app/profile/diva2765/viz/NHSTA-Blue/Dashboard1?publish=yes)</b>
 <br>For monitoring the number of automobile recall<br>
+<img src="images/nhtsa_pic.PNG"/>
 
 <b>[West Java Poverty Analysis](https://public.tableau.com/app/profile/diva2765/viz/AnalisisKemiskinandiDareahJawaBarat/Dashboard)</b>
 <br>This graphics are used to fulfill one the data analysis competition requirements, resulting my team achieving the 2nd runner up place in the competition
