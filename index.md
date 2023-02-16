@@ -45,6 +45,7 @@ I used <b>Microsoft SQL server 2019</b> to write and process the SQL Queries.
 ### Data Analytics with Tableau
 <b>[Olist marketing Dashboard](https://public.tableau.com/app/profile/diva2765/viz/OlistMarketingDashboard_16763788146840/Dashboard2?publish=yes)</b>
 <br>For monitoring the lead number of Olist E-commerce. Data source: Kaggle<br>
+<img src="images/olist_marketing.PNG"/>
 
 <b>[NHTSA Vehicle Recall Dashboard](https://public.tableau.com/app/profile/diva2765/viz/NHSTA-Blue/Dashboard1?publish=yes)</b>
 <br>For monitoring the number of automobile recall. A practice project<br>
