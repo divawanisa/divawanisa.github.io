@@ -10,7 +10,7 @@ and Principal Component Analysis. The position map is deployed using Heroku serv
 
 <b>Employee Turnover Prediction</b>
 <br> Predicting employee resignation with Random Forest Classifier, Decision Tree Classifier, Light GBM Classifier, and XGBoost Classifier. Process covered: data exploration, missing value treatment, imbalance treatment, grid search, k-fold validation.<br>
-- [Notebook](/code/turnover_rate.ipynb)
+- [Notebook](/code/turnover_prediction.ipynb)
 
 <b>E-commerce EDA</b>
 <br>E-commerce data are explored to gained insights and provide recommendation. Include clustering models based on customer RFM to group customers based on their Customer Lifetime Value<br>
