@@ -7,8 +7,10 @@
 <br> Mapping offered service positiong among digital bank brands in Indonesia using NLP, Jaccard Similarity, Binomial Proportion Test,
 and Principal Component Analysis. The position map is deployed using Heroku server to ease user in interpreting the model result<br>
 - [Presentation for the research project](/pdf/bank_service.pdf)
-- [Deployment dashboard](https://komp-jenius.herokuapp.com/)
 
+<b>Employee Turnover Prediction</b>
+<br> Predicting employee resignation with Random Forest Classifier, Decision Tree Classifier, Light GBM Classifier, and XGBoost Classifier. Process covered: data exploration, missing value treatment, imbalance treatment, grid search, k-fold validation.<br>
+- [Notebook](/code/turnover_rate.ipynb)
 
 <b>E-commerce EDA</b>
 <br>E-commerce data are explored to gained insights and provide recommendation. Include clustering models based on customer RFM to group customers based on their Customer Lifetime Value<br>
